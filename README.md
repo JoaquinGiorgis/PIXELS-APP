@@ -1,5 +1,5 @@
 # PIXELS
-Aplicación web desarrollada con stack mern. Web realizada con el objetivo de que cada desarrollador pueda mostrar hacia una comunidad sus proyectos de desarrollo dentro del mundo gaming.
+Aplicación web desarrollada con stack mern. Web realizada con el objetivo de que cada desarrollador pueda mostrar hacia una comunidad sus proyectos de desarrollo dentro del mundo gaming con el enfoque de poder recibir un feedback u opiniones de su producto.
 # Trabajo realizado
 Una app desarrollada en dos semanas, realizando dailies diarias y meets durante todo el dia para poder resolver los diferentes inconvenientes ya que fue un challenge para el bootcamp cursado en MindHub.
 <br/>Para poder ver el trabajo final realizado puedes ingresar a: https://app-pixels.herokuapp.com/
